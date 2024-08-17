@@ -1,0 +1,37 @@
+
+  
+  app-sidebar {
+    width: 250px;
+  }
+  
+  app-content {
+    flex-grow: 1;
+    padding: 20px;
+  }
+
+  .container {
+    display: flex;
+    border: 1px solid #ddd; /* Border around the entire container */
+  }
+  
+
+  /* Override Angular Material snack bar styles */
+.custom-snackbar {
+  background-color: #333; /* Background color of snack bar */
+  color: #fff; /* Text color */
+  border-radius: 5px; /* Rounded corners */
+  padding: 16px; /* Padding around the text */
+}
+
+/* Snack bar action button style */
+.custom-snackbar .mat-button {
+  color: #fff; /* Color of the action button text */
+}
+
+/* Snack bar container position */
+.mat-snack-bar-container {
+  border: 1px solid #555; /* Border around snack bar */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); /* Shadow effect */
+}
+
+  
