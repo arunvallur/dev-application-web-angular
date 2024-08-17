@@ -23,3 +23,9 @@ Header Component: Displays application title or navigation.
 Content Component: Main area for displaying dynamic content.
 Sidebar Component: Provides additional navigation or information.
 The application uses SignalR for real-time communication. Notifications and updates are managed via SignalR, and you can see them in action as you interact with the application.
+
+
+
+
+
+[angular-webapi.webm](https://github.com/user-attachments/assets/fbe998cc-2538-4b68-81b7-47da844b2298)
